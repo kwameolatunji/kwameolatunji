@@ -28,7 +28,7 @@ February 2026 - Present
 Barbados - Hybrid  
 
 ### Consultant
-[Zindi Incorporated](https://www.linkedin.com/company/maxxus-technologies/)  
+[Zindi Incorporated](https://www.zindi.africa/)  
 January 2026 - Present  
 Barbados - Hybrid  
 
@@ -38,6 +38,13 @@ January 2026 - Present
 Barbados - Hybrid  
 
 ## Licenses & Certifications
+
+### CompTIA PenTest+ (PT0-002) Specialization  
+Packt  
+Issued April 2026  
+[Credential ID XV6WSOUSH3Q2](https://www.coursera.org/account/accomplishments/specialization/XV6WSOUSH3Q2)  
+
+- See all Licenses & Certifications.
 
 ## Projects
 
@@ -52,6 +59,8 @@ Developed an ASR model that can accurately transcribe audio clips featuring Cari
 ### From Harbour To Hill (Mural)
 
 ### Rendezvous Hill - Side B (Mural)
+
+- See all Projects.
 
 ## Volunteering
 
@@ -70,7 +79,11 @@ Fairytale Foundation
 Sep 2017 - Present  
 Science & Technology  
 
+- See all Volunteering.
+
 ## Skills
+
+- See all Skills.
 
 ## Causes
 
