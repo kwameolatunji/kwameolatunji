@@ -32,6 +32,11 @@ Barbados - Hybrid
 January 2026 - Present  
 Barbados - Hybrid  
 
+### Chief Innovation Officer (CINO)
+[Nexura Innovations Group Incorporated](https://nexurainnovations.com/)  
+January 2026 - Present  
+Barbados - Hybrid  
+
 ## Licenses & Certifications
 
 ## Projects
@@ -51,7 +56,7 @@ Developed an ASR model that can accurately transcribe audio clips featuring Cari
 ## Volunteering
 
 ### Volunteer
-The Barbados Arts Council  
+[The Barbados Arts Council](https://thebarbadosartscouncil.com/)  
 September 2020 - Present  
 Arts & Culture  
 
