@@ -29,8 +29,8 @@ Barbados - Hybrid
 
 ### Consultant
 [Zindi Incorporated](https://www.linkedin.com/company/maxxus-technologies/)  
-January 2026 - Present
-Barbados - Hybrid
+January 2026 - Present  
+Barbados - Hybrid  
 
 ## Licenses & Certifications
 
@@ -41,5 +41,11 @@ Barbados - Hybrid
 Wishlist is a community-driven web application designed to identify and prioritize the most pressing issues in Barbados through collective voting and data visualization. This platform serves as the foundation for the Zindi Christmas Party Hackathon 2025, enabling developers to access real, community-validated problems that need technological solutions.
 
 ### Caribbean Voices AI Hackathon (2025)
+
+Developed an ASR model that can accurately transcribe audio clips featuring Caribbean accents. Word Error Rate (WER) of placing submission was 0.054430546. Secured a top spot on the Phase 1 leaderboard (9th), qualifying for Phase 2 Innovation Phase.
+
+### From Harbour To Hill (Mural)
+
+### Rendezvous Hill - Side B (Mural)
 
 ## Volunteering
