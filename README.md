@@ -49,3 +49,27 @@ Developed an ASR model that can accurately transcribe audio clips featuring Cari
 ### Rendezvous Hill - Side B (Mural)
 
 ## Volunteering
+
+### Volunteer
+The Barbados Arts Council
+September 2020 - Present
+Arts & Culture
+
+### Volunteer
+Computer Science Society (CSS) - UWI-CH
+September 2020 - Present
+Science & Technology
+
+### Volunteer
+Fairytale Foundation
+Sep 2017 - Present
+Science & Technology
+
+## Skills
+
+## Causes
+
+- Arts & Culture
+- Civil Rights & Social Action
+- Science & Technology
+
