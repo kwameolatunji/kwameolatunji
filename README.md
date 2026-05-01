@@ -51,25 +51,25 @@ Developed an ASR model that can accurately transcribe audio clips featuring Cari
 ## Volunteering
 
 ### Volunteer
-The Barbados Arts Council
-September 2020 - Present
-Arts & Culture
+The Barbados Arts Council  
+September 2020 - Present  
+Arts & Culture  
 
 ### Volunteer
-Computer Science Society (CSS) - UWI-CH
-September 2020 - Present
-Science & Technology
+Computer Science Society (CSS) - UWI-CH  
+September 2020 - Present  
+Science & Technology  
 
 ### Volunteer
-Fairytale Foundation
-Sep 2017 - Present
-Science & Technology
+Fairytale Foundation  
+Sep 2017 - Present  
+Science & Technology  
 
 ## Skills
 
 ## Causes
 
-- Arts & Culture
-- Civil Rights & Social Action
-- Science & Technology
+- Arts & Culture  
+- Civil Rights & Social Action  
+- Science & Technology  
 
